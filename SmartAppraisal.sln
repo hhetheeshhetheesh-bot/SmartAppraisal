@@ -1,0 +1,60 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36717.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartAppraisal", "SmartAppraisal\SmartAppraisal.csproj", "{7DEC815F-AC63-4012-AA7A-F8AF2BC87528}"
+	ProjectSection(ProjectDependencies) = postProject
+		{5616D10E-5059-486A-A791-7DB34F7BB0D4} = {5616D10E-5059-486A-A791-7DB34F7BB0D4}
+		{B0F65F82-3175-4605-8A97-DB662809E664} = {B0F65F82-3175-4605-8A97-DB662809E664}
+		{B746DFB3-1061-49B7-8755-6659CF2EE08E} = {B746DFB3-1061-49B7-8755-6659CF2EE08E}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BL_SmartAppraisal", "BL_SmartAppraisal\BL_SmartAppraisal.csproj", "{B0F65F82-3175-4605-8A97-DB662809E664}"
+	ProjectSection(ProjectDependencies) = postProject
+		{5616D10E-5059-486A-A791-7DB34F7BB0D4} = {5616D10E-5059-486A-A791-7DB34F7BB0D4}
+		{B746DFB3-1061-49B7-8755-6659CF2EE08E} = {B746DFB3-1061-49B7-8755-6659CF2EE08E}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DL_SmartAppraisal", "DL_SmartAppraisal\DL_SmartAppraisal.csproj", "{B746DFB3-1061-49B7-8755-6659CF2EE08E}"
+	ProjectSection(ProjectDependencies) = postProject
+		{5616D10E-5059-486A-A791-7DB34F7BB0D4} = {5616D10E-5059-486A-A791-7DB34F7BB0D4}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UL_Smart Appraisal", "UL_Smart Appraisal\UL_Smart Appraisal.csproj", "{5616D10E-5059-486A-A791-7DB34F7BB0D4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7DEC815F-AC63-4012-AA7A-F8AF2BC87528}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DEC815F-AC63-4012-AA7A-F8AF2BC87528}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DEC815F-AC63-4012-AA7A-F8AF2BC87528}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DEC815F-AC63-4012-AA7A-F8AF2BC87528}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0F65F82-3175-4605-8A97-DB662809E664}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0F65F82-3175-4605-8A97-DB662809E664}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0F65F82-3175-4605-8A97-DB662809E664}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0F65F82-3175-4605-8A97-DB662809E664}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B746DFB3-1061-49B7-8755-6659CF2EE08E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B746DFB3-1061-49B7-8755-6659CF2EE08E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B746DFB3-1061-49B7-8755-6659CF2EE08E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B746DFB3-1061-49B7-8755-6659CF2EE08E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5616D10E-5059-486A-A791-7DB34F7BB0D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5616D10E-5059-486A-A791-7DB34F7BB0D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5616D10E-5059-486A-A791-7DB34F7BB0D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5616D10E-5059-486A-A791-7DB34F7BB0D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {52A0F535-2A52-4576-8E78-F4290FCF139C}
+	EndGlobalSection
+EndGlobal
