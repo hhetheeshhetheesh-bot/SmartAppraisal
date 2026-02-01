@@ -1,0 +1,17 @@
+C:\Users\Hetheesh\source\repos\SmartAppraisal\BL_SmartAppraisal\bin\Debug\net9.0\BL_SmartAppraisal.deps.json
+C:\Users\Hetheesh\source\repos\SmartAppraisal\BL_SmartAppraisal\bin\Debug\net9.0\BL_SmartAppraisal.runtimeconfig.json
+C:\Users\Hetheesh\source\repos\SmartAppraisal\BL_SmartAppraisal\bin\Debug\net9.0\BL_SmartAppraisal.dll
+C:\Users\Hetheesh\source\repos\SmartAppraisal\BL_SmartAppraisal\bin\Debug\net9.0\BL_SmartAppraisal.pdb
+C:\Users\Hetheesh\source\repos\SmartAppraisal\BL_SmartAppraisal\obj\Debug\net9.0\BL_SmartAppraisal.csproj.AssemblyReference.cache
+C:\Users\Hetheesh\source\repos\SmartAppraisal\BL_SmartAppraisal\obj\Debug\net9.0\BL_SmartAppraisal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hetheesh\source\repos\SmartAppraisal\BL_SmartAppraisal\obj\Debug\net9.0\BL_SmartAppraisal.AssemblyInfoInputs.cache
+C:\Users\Hetheesh\source\repos\SmartAppraisal\BL_SmartAppraisal\obj\Debug\net9.0\BL_SmartAppraisal.AssemblyInfo.cs
+C:\Users\Hetheesh\source\repos\SmartAppraisal\BL_SmartAppraisal\obj\Debug\net9.0\BL_SmartAppraisal.csproj.CoreCompileInputs.cache
+C:\Users\Hetheesh\source\repos\SmartAppraisal\BL_SmartAppraisal\obj\Debug\net9.0\BL_SmartAppraisal.dll
+C:\Users\Hetheesh\source\repos\SmartAppraisal\BL_SmartAppraisal\obj\Debug\net9.0\refint\BL_SmartAppraisal.dll
+C:\Users\Hetheesh\source\repos\SmartAppraisal\BL_SmartAppraisal\obj\Debug\net9.0\BL_SmartAppraisal.pdb
+C:\Users\Hetheesh\source\repos\SmartAppraisal\BL_SmartAppraisal\obj\Debug\net9.0\BL_SmartAppraisal.genruntimeconfig.cache
+C:\Users\Hetheesh\source\repos\SmartAppraisal\BL_SmartAppraisal\obj\Debug\net9.0\ref\BL_SmartAppraisal.dll
+C:\Users\Hetheesh\source\repos\SmartAppraisal\BL_SmartAppraisal\bin\Debug\net9.0\DL_SmartAppraisal.dll
+C:\Users\Hetheesh\source\repos\SmartAppraisal\BL_SmartAppraisal\bin\Debug\net9.0\DL_SmartAppraisal.pdb
+C:\Users\Hetheesh\source\repos\SmartAppraisal\BL_SmartAppraisal\obj\Debug\net9.0\BL_Smart.49240965.Up2Date
